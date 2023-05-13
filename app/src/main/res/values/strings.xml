@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Bio</string>
+    <string name="name">Fahim Mohammod Fardous</string>
+    <string name="title">Android Developer with big dreams</string>
+    <string name="linkedin"><a href="https://www.linkedin.com/in/fahim-mohammod-fardous-93ab96213/"></a></string>
+    <string name="about_me">Myself Fahim Mohammod Fardous. I live in Chittagong,
+Bangladesh. Currently I’m pursuing my Bachelor degree
+in Computer Science from International Islamic University
+Chittagong. I solve problems in various online judges such
+as Leetcode,Codeforces etc. and solved approximately
+700+ problems. And I also do android development and
+developed some projects using it. </string>
+</resources>
